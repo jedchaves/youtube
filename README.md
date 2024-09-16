@@ -16,6 +16,6 @@ Esse repositório é destinado à documentação de apoio aos vídeos publicados
 - [Atualizar Cluster K8S Criado com Kubeadm](https://github.com/jedchaves/youtube/wiki/upgrade_k8s)
 - [Renovação Certificados Cluster com Kubeadm](https://github.com/jedchaves/youtube/wiki/renew_cert)
 - [Migração do Docker para o Containerd](https://github.com/jedchaves/youtube/wiki/docker_to_containerd)
-- [Instalação e configuração MetalLB](https://github.com/jedchaves/youtube/wiki/metallb)
+- [Instalação e Configuração MetalLB](https://github.com/jedchaves/youtube/wiki/metallb)
 
 ## 🎬 [Visite nosso canal no YouTube!](https://www.youtube.com/@jedchaves)
