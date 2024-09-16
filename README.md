@@ -18,4 +18,4 @@ Esse repositório é destinado à documentação de apoio aos vídeos publicados
 - [Migração do Docker para o Containerd](https://github.com/jedchaves/youtube/wiki/docker_to_containerd)
 - [Instalação e configuração MetalLB](https://github.com/jedchaves/youtube/wiki/metallb)
 
-> ### 🎬 [Visite nosso canal no YouTube!](https://www.youtube.com/@jedchaves)
+## 🎬 [Visite nosso canal no YouTube!](https://www.youtube.com/@jedchaves)
