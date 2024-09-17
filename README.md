@@ -19,7 +19,10 @@ Esse repositório é destinado à documentação de apoio aos vídeos publicados
 - [Instalação e Configuração MetalLB](https://github.com/jedchaves/youtube/wiki/metallb)
 
 ### 📋 Próximos Vídeos
-- [ ] ...
-- [ ] ...
+- [ ] Storage Class NFS
+- [ ] MetalLB
+- [ ] Ingress Nginx
+- [ ] Ingress Istio
+- [ ] Veeam Kasten
 
 ### 🎬 [Visite nosso canal no YouTube!](https://www.youtube.com/@jedchaves)
