@@ -1,13 +1,13 @@
-#  📚  Documentação Vídeos Youtube
+##  📚  Documentação Vídeos Youtube
 
 Esse repositório é destinado à documentação de apoio aos vídeos publicados no Youtube.
 
-## 🐧 Playlist Linux
+### 🐧 Playlist Linux
 
 - [Como fazer Upgrade do Debian 7 para o Debian 11](https://github.com/jedchaves/youtube/wiki/upgrade_debian)
 - [Como fazer a Migração do CentOS para o Oracle Linux ou Rocky Linux](https://github.com/jedchaves/youtube/wiki/migracao_centos)
 
-## 🛠️ Playlist SRE
+### 🛠️ Playlist SRE
 
 - [Criação de cluster Kubernetes com Alta Disponibilidade](https://github.com/jedchaves/youtube/wiki/cluster_k8s)
 - [Configuração Keepalived](https://github.com/jedchaves/youtube/wiki/conf_keepalived)
@@ -18,7 +18,7 @@ Esse repositório é destinado à documentação de apoio aos vídeos publicados
 - [Migração do Docker para o Containerd](https://github.com/jedchaves/youtube/wiki/docker_to_containerd)
 - [Instalação e Configuração MetalLB](https://github.com/jedchaves/youtube/wiki/metallb)
 
-## 📋 Próximos Vídeos
+### 📋 Próximos Vídeos
 - [ ] ...
 - [ ] ...
 
