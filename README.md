@@ -17,6 +17,7 @@ Esse repositório é destinado à documentação de apoio aos vídeos publicados
 - [Renovação Certificados Cluster com Kubeadm](https://github.com/jedchaves/youtube/wiki/renew_cert)
 - [Migração do Docker para o Containerd](https://github.com/jedchaves/youtube/wiki/docker_to_containerd)
 - [Instalação e Configuração MetalLB](https://github.com/jedchaves/youtube/wiki/metallb)
+- [Instalação Ingress Nginx](https://github.com/jedchaves/youtube/wiki/ingress_nginx)
 
 ### 📋 Próximos Vídeos
 - [ ] Storage Class NFS
