@@ -18,11 +18,10 @@ Esse repositório é destinado à documentação de apoio aos vídeos publicados
 - [Migração do Docker para o Containerd](https://github.com/jedchaves/youtube/wiki/docker_to_containerd)
 - [Instalação e Configuração MetalLB](https://github.com/jedchaves/youtube/wiki/metallb)
 - [Instalação Ingress Nginx](https://github.com/jedchaves/youtube/wiki/ingress_nginx)
+- [Instalação Ingress Istio](https://github.com/jedchaves/youtube/wiki/ingress_istio)
 
 ### 📋 Próximos Vídeos
 - [ ] Storage Class NFS
-- [ ] MetalLB
-- [ ] Ingress Nginx
 - [ ] Ingress Istio
 - [ ] Veeam Kasten
 
