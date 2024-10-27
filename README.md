@@ -22,7 +22,6 @@ Esse repositório é destinado à documentação de apoio aos vídeos publicados
 
 ### 📋 Próximos Vídeos
 - [ ] Storage Class NFS
-- [ ] Ingress Istio
 - [ ] Veeam Kasten
 
 ### 🎬 [Visite nosso canal no YouTube!](https://www.youtube.com/@jedchaves)
