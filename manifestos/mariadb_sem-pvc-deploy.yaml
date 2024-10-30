@@ -21,16 +21,3 @@ spec:
         env:
         - name: MYSQL_ROOT_PASSWORD
           value: "senhasuperforte"  # substitua pelo valor desejado
-
----
-apiVersion: v1
-kind: Service
-metadata:
-  name: mariadb
-  namespace: mariadb
-spec:
-  ports:
-  - port: 3306
-    targetPort: 3306
-  selector:
-    app: mariadb
