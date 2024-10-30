@@ -26,7 +26,7 @@ spec:
         - containerPort: 3306
         env:
         - name: MYSQL_ROOT_PASSWORD
-          value: "your-root-password"  # substitua pelo valor desejado
+          value: "senhasuperforte"  # substitua pelo valor desejado
 
 ---
 apiVersion: v1
