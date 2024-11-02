@@ -20,7 +20,7 @@ Esse repositório é destinado à documentação de apoio aos vídeos publicados
 - [Instalação Ingress Nginx](https://github.com/jedchaves/youtube/wiki/ingress_nginx)
 - [Instalação Ingress Istio](https://github.com/jedchaves/youtube/wiki/ingress_istio)
 - [Instalação CSI NFS Driver](https://github.com/jedchaves/youtube/wiki/storageclass_nfs)
-- [Instalação Kubernetes Metrics Server](https://github.com/jedchaves/youtube/wiki/k8s_metrics).
+- [Instalação Kubernetes Metrics Server](https://github.com/jedchaves/youtube/wiki/k8s_metrics)
 
 ### 📋 Próximos Vídeos
 - [ ] Storage Class NFS
